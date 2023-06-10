@@ -1,0 +1,14 @@
+Enter the number of students 2
+Enter the usn,name,branch,phone
+1
+Monika
+cse
+93411
+Enter the usn, name,branch, phone
+12
+gowda
+cse
+9785
+Students details are
+1 monika cse 93411
+12 gowdacse 9785
