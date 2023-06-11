@@ -1,0 +1,73 @@
+-------------------------------------
+Teaching Staff Details
+-------------------------------------Staff ID: 11
+Staff Phone number: 998765434
+Staff Salary: 31000
+Staff Name: Anil
+Domain : CSE
+No_of_publications: 10
+-------------------------------------
+Teaching Staff Details
+-------------------------------------
+Staff ID: 12
+Staff Phone number: 996655546
+Staff Salary: 30000
+Staff Name: Anu
+Domain : ISE
+No_of_publications: 9
+-------------------------------------
+Teaching Staff Details
+-------------------------------------
+Staff ID: 13
+Staff Phone number: 999933442
+Staff Salary: 32000
+Staff Name: Anusha
+Domain : EEE
+No_of_publications: 8
+-------------------------------------
+Technical Staff Details
+-------------------------------------
+Staff ID: 21
+Staff Phone number: 994433221
+Staff Salary: 22000
+Staff Name: Kumar
+Skills : C
+-------------------------------------
+Technical Staff Details
+-------------------------------------
+Staff ID: 22
+Staff Phone number: 998877665
+Staff Salary: 28000
+Staff Name: Krisna
+Skills : Java
+-------------------------------------
+Technical Staff Details
+-------------------------------------Staff ID: 23
+Staff Phone number: 991654321
+Staff Salary: 33000
+Staff Name: Kiran
+Skills : Java
+-------------------------------------
+Contract Staff Details
+-------------------------------------
+Staff ID: 31
+Staff Phone number: 998765434
+Staff Salary: 35000
+Staff Name: Anil
+ContractPeriod: 3years
+-------------------------------------
+Contract Staff Details
+-------------------------------------
+Staff ID: 32
+Staff Phone number: 912345678
+Staff Salary: 39000
+Staff Name: Meghana
+ContractPeriod: 2years
+-------------------------------------
+Contract Staff Details
+-------------------------------------
+Staff ID: 33
+Staff Phone number: 992233445
+Staff Salary: 30000
+Staff Name: Uma
+ContractPeriod: 4years
