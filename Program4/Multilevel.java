@@ -1,7 +1,7 @@
-public class Staff {
+class staff {
     int staffid, phone, salary;
     String name;
-    public Staff(int id , int no, int sal, String na) {staffid=id;
+    public staff(int id , int no, int sal, String na) {staffid=id;
         phone=no;
         salary=sal;
         name=na;
@@ -14,10 +14,10 @@ public class Staff {
         System.out.println("Staff Name:" +" "+ name);
     }
 }
-class Teaching extends Staff {
+class Teaching extends staff {
     String domain;
     int no_of_publications;
-    public Teaching(int id, int no, intsal, String na,Stringd,intnop) {
+    public Teaching(int id, int no, int sal, String na,String d,int nop) {
         super(id,no,sal,na);
         domain=d;
         no_of_publications=nop;
@@ -30,9 +30,9 @@ class Teaching extends Staff {
         System.out.println("No_of_publications:"+" "+no_of_publications);
     }
 }
-class Technical extends Staff {
+class Technical extends staff {
     String skills;
-    public Technical(int id , int no, intsal, String na,Stringsk) {
+    public Technical(int id , int no, int sal, String na,String sk) {
         super(id,no,sal,na);
         skills=sk;
     }
@@ -42,13 +42,13 @@ class Technical extends Staff {
         super.display();
         System.out.println("Skills :" + " "+skills);}
     }
-class Contract extends Staff {
+class Contract extends staff {
     int period;
-    public Contract(int id , int no, intsal, String na,intpd) {
+    public Contract(int id , int no, int sal, String na,int pd) {
         super(id,no,sal,na);
         period=pd;
     }
-    voidCdisplay(){
+    void Cdisplay(){
         System.out.println("-------------------------------------");
         System.out.println("Contract Staff Details");
         super.display();
