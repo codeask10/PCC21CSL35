@@ -1,0 +1,2 @@
+The area is: 200
+The area is: 1200
