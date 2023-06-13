@@ -67,11 +67,27 @@ javac Sum.java
 To Run
 java Sum
 
-3 (B) Demonstrating Constructor Overloading
+5(B) Demonstrating Constructor Overloading
 //File Name should be Demo.java
 NOTE:
 To Compile
 javac Demo.java
 To Run
 java Demo
+-------------------------------------------------***************************************************------------------------------------------
+Program 6
+Develop a java application to implement currency converter (Dollar to INR,EURO to INR, Yen to INR and vice versa), distance converter (meter to KM, miles to KM andvice versa), time converter (hours to minutes, seconds and vice versa) using packages.
+
+NOTE:
+To Compile, go to CurrencyConverter folder
+javac CurrencyConverter.java
+To Compile, go to DistanceConverter folder
+javac DistanceConverter.java
+To Compile, go to TimeConverter folder
+javac TimeConverter.java
+To Compile,
+javac Converter.java
+To Run
+java Converter
+
 
