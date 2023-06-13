@@ -1,0 +1,54 @@
+To compile Program 6 we need some steps to follow.
+step1: Go to the CurrencyConverter(PCC21CSL35/Program6/CurrencyConverter) and type javac CurrencyConverter.java
+step2: Go to the DistanceConverter(PCC21CSL35/Program6/DistanceConverter) and type javac DistanceConverter.java 
+step3: Go to the TimeConverter(PCC21CSL35/Program6/TimeConverter) and type javac TimeConverter.java 
+
+step4: Go back to the Program6(PCC21CSL35/Program6$) and type javac Converter.java and after that again type  java Converter
+then the outputs are:
+
+1.CurrencyConverter
+2.DistanceConverter
+3.TimeConverter
+1
+Welcome to Currency Converter
+Enter the amount :
+1
+DOLLOR=1.0 is INR=67.86
+INR=1.0 is DOLLOR=0.014736221632773357
+EURO=1.0 is INR=79.18
+INR=1.0 is EURO=0.01262945188178833
+YEN=1.0 is INR=0.62
+INR=1.0 is YEN=1.6129032258064517
+
+PCC21CSL35/Program6$ java Converter
+1.CurrencyConverter
+2.DistanceConverter
+3.TimeConverter
+2
+Welcome to Distance Converter
+Enter the distance :
+1
+METER=1.0 is KM=0.001
+KM=1.0 is METER=1000.0
+MILES=1.0 is KM=1.60934
+KM=1.0 is MILES=0.623464718131601
+
+PCC21CSL35/Program6$ java Converter
+1.CurrencyConverter
+2.DistanceConverter
+3.TimeConverter
+3
+Welcome to Time Converter
+Enter the time :
+1
+HOURS=1.0 is MINUTES=60.0
+MINUTES=1.0 is HOURS=0.016666666666666666
+HOURS=1.0 is SECONDS=3600.0
+SECONDS=1.0 is HOURS=2.777777777777778E-4
+
+PCC21CSL35/Program6$ java Converter
+1.CurrencyConverter
+2.DistanceConverter
+3.TimeConverter
+4
+Invalid case
