@@ -1,0 +1,10 @@
+TeacherResume
+Name : Aslam J Karjagi
+Qualification :M.Tech
+Achievements :Q1 publication
+Experience :14.8
+
+Student Resume
+Name : Rahul Sharma
+Result : 9.8 cgpa
+Discipline : Computer Science and Engineering

@@ -1,0 +1,45 @@
+interface Resume {
+    void biodata();
+}
+
+class Teacher implements Resume {
+    String name, qualification, achievements;
+    float experience;
+
+    public void biodata()
+    {
+        name="Aslam J Karjagi";
+        qualification="M.Tech";
+        achievements="Q1 publication";
+        experience=14.8f;
+        System.out.println("Teacher Resume");
+        System.out.println("Name : "+name);
+        System.out.println("Qualification :"+qualification);
+        System.out.println("Achievements :"+achievements); 
+        System.out.println("Experience :"+experience);
+    }
+}
+
+class Student implements Resume {
+    String name, discipline;
+    float result;
+    public void biodata(){
+        name="Rahul Sharma";
+        result=9.8f;
+        discipline="Computer Science and Engineering"; 
+        System.out.println("");
+        System.out.println("Student Resume");
+        System.out.println("Name : " +name);
+        System.out.println("Result : "+result+" cgpa"); 
+        System.out.println("Discipline : "+discipline);
+    }
+}
+
+public class InterfaceP {
+    public static void main(String[] args) {
+        Teacher obj1 = new Teacher();
+        obj1.biodata();
+        Student obj2 = new Student();
+        obj2.biodata();
+    }
+}
