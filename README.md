@@ -8,7 +8,7 @@ To Compile
 javac QuadraticEQN.java
 To Run
 java QuadraticEQN
--------------------------------------------------***************************************************------------------------------------------
+----------------------------------******************************************-----------------------------------
 
 Program 2 
 Create a Java class called Student with the following details as variables within it.
@@ -24,7 +24,7 @@ To Compile
 javac Students.java
 To Run
 java Students
--------------------------------------------------***************************************************------------------------------------------
+----------------------------------******************************************-----------------------------------
 
 Program 3
 3A) Write a program to check prime number.
@@ -42,8 +42,7 @@ To Compile
 javac Calculator.java
 To Run
 java Calculator
-
--------------------------------------------------***************************************************------------------------------------------
+----------------------------------******************************************-----------------------------------
 
 
 Program 4 
@@ -56,7 +55,7 @@ javac Multilevel.java
 To Run
 java Multilevel
 java Students
--------------------------------------------------***************************************************------------------------------------------
+----------------------------------******************************************-----------------------------------
 
 Program 5. Write a java program demonstrating Method overloading and Constructor overloading.
 5.A) Demonstrating Method overloading
@@ -74,7 +73,7 @@ To Compile
 javac Demo.java
 To Run
 java Demo
--------------------------------------------------***************************************************------------------------------------------
+----------------------------------******************************************-----------------------------------
 Program 6
 Develop a java application to implement currency converter (Dollar to INR,EURO to INR, Yen to INR and vice versa), distance converter (meter to KM, miles to KM andvice versa), time converter (hours to minutes, seconds and vice versa) using packages.
 
@@ -90,4 +89,17 @@ javac Converter.java
 To Run
 java Converter
 
+----------------------------------******************************************-----------------------------------
+Program 7
+Write a program to generate the resume. Create 2 Java classes Teacher (data: personalinformation, qualification, experience, achievements) and Student (data: personal information, result, discipline) which implements the java interface Resume with the
+method biodata().
+
+//File Name should be InterfaceP.java
+NOTE:
+To Compile
+javac InterfaceP.java
+To Run
+java InterfaceP
+
+----------------------------------******************************************-----------------------------------
 
