@@ -1,0 +1,15 @@
+first thread generated number is65
+Second thread:Square of the number is 4225
+thirdthread:Cube of the number is 274625
+first thread generated number is 33
+Second thread:Square of the number is1089
+thirdthread:Cube of the number is35937
+first thread generated number is 30
+Second thread:Square of the number is 900
+thirdthread:Cube of the number is 27000
+first thread generated number is 29
+Second thread:Square of the number is841
+thirdthread:Cube of the number is 24389
+first thread generated number is 93
+Second thread:Square of the number is 8649
+thirdthread:Cube of the number is 804357
