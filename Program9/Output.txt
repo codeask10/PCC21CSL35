@@ -1,0 +1,13 @@
+Elements in ArrayList:
+        [Arun, Balaji, Chandru, David, Elango] 
+
+After Inserting Elements:
+        [Arujun, Barath, Arun, Balaji, Chandru, David, Elango] 
+
+Search For Element:
+Balaji
+        ArrayList containsBalaji
+
+Arraylist get the strings starting with given letter:
+b
+        [Barath, Balaji] 
