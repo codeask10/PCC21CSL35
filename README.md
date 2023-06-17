@@ -114,6 +114,17 @@ javac Multithread.java
 To Run
 java Multithread
 ----------------------------------******************************************-----------------------------------
+Program 9
+9. Write a program to perform string operations using ArrayList. Write functions for the following a. Append - add at end b. Insert – add at particular index c. Search d. List all string starts with given letter.
+
+//File Name should be ArrayListP.java
+
+NOTE:
+To Compile
+javac ArrayListP.java
+To Run
+java ArrayListP
+----------------------------------******************************************-----------------------------------
 
 
 
