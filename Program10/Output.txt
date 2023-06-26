@@ -1,0 +1,8 @@
+Input two integers
+6
+2
+Result=3
+Input two integers
+3
+0
+exception caught: Divide by zero errorjava.lang.ArithmeticException: / by zero

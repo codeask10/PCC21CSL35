@@ -1,0 +1,13 @@
+Enter the FileName: Output.txt
+
+The given file Output.txt exists.
+
+File Location: PCC21CSL35/Program11/Output.txt
+
+The file is readable.
+
+The file is writable.
+
+File length is 240 in bytes.
+
+The given file is a text file.
